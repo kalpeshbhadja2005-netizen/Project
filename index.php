@@ -10,7 +10,7 @@ include_once('includes/header.php');
 
 <main class="hero">
     <section class="intro">
-        <h1>Welcome to LearnPro</h1>
+        <h1>Welcome to LearnPro Web Application</h1>
         <p>Your gateway to free and premium online courses</p><br>
         <a href="courses.php" class="btn">Browse Courses</a>
     </section>
